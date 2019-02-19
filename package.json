@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "test-monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "app",
+    "common/lib",
+    "web"
+  ]
+}
